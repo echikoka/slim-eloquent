@@ -6,7 +6,7 @@
     },
     "autoload": {
         "classmap": [
-			"apps"
+			"api"
 		]
 	}
 }
